@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %}AEI - analiza tekstów{% endblock %}</h1>
+    <div>
+        {% for data in combined_data %}
+        <div class="container-text-data">
+            <p class="label-text-num">Nr tekstu: {{ data[0] + 1 }}</p>
+            <p>{{ data[1]|safe }}</p>
+            <div class="box-role">
+                <div class="container-role">
+                    Cel:
+                    {% for cel in data[2] %}
+                        <p>{{ cel }}</p>
+                    {% endfor %}
+                </div>
+                <div class="container-role">
+                    Zdarzenie:
+                    {% for zdarzenie in data[3] %}
+                        <p>{{ zdarzenie }}</p>
+                    {% endfor %}
+                </div>
+                <div class="container-role">
+                    Sprawca:
+                    {% for sprawca in data[4] %}
+                        <p>{{ sprawca }}</td>
+                    {% endfor %}
+                </div>
+                <div class="container-role">
+                    Narzędzie:
+                    {% for narzedzie in data[5] %}
+                        <p>{{ narzedzie }}</p>
+                    {% endfor %}
+                </div>
+                <div class="container-role">
+                    Miejsce:
+                    {% for miejsce in data[6] %}
+                        <p>{{ miejsce }}</td>
+                    {% endfor %}
+                </div>
+                <div class="container-role">
+                    Obiekt:
+                    {% for obiekt in data[7] %}
+                        <p>{{ obiekt }}</p>
+                    {% endfor %}
+                </div>
+                <div class="container-role rating">
+                    Ocena tekstu:
+                    <p>{{ data[8] }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    
+{% endblock %}

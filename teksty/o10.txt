@@ -1,0 +1,8 @@
+Istnienie neutrin zostało zaproponowane przez Wolfganga Pauliego na początku lat 30. XX w. (nadając nowej cząstce nazwę neutron) jako uzasadnienie ciągłego spektrum początkowej energii elektronów produkowanych w wyniku rozpadu β−.
+Już wtedy jednoznacznie określono spin neutrina i ładunek elektryczny oraz że nie może oddziaływać silnie z materią. Na potrzeby opisu interakcji neutrina z materią wprowadzono do fizyki oddziaływanie słabe. W połowie lat 30. XX w. Enrico Fermi rozpoczął formułowanie matematycznego opisu tego oddziaływania, a Hans Bethe i Rudolf Peierls zaproponowali sposób wykrywania neutrin wykorzystany w pierwszym eksperymencie.
+Eksperymentalne potwierdzenie istnienia neutrin (a właściwie anty-neutrin, o czym jeszcze nie wiedziano) nastąpiło w roku 1956 (wykryli je Frederick Reines i Clyde Cowan).
+Pomiary pędów i energii w reakcjach rozpadu mionu na elektron oraz pionu na mion wykazały, że również w tych przemianach powinny uczestniczyć neutrina. Określono, że pion powinien rozpadać się na mion i jedno neutrino (nazywane dzisiaj anty-neutrinem mionowym), a mion na elektron i dwa neutrina (dziś jedno to neutrino mionowe, a drugie anty-neutrino elektronowe). Wynik ten doprowadził do wprowadzenia do fizyki liczby elektronowej i liczby mionowej oraz rozróżniania rodzajów neutrin.
+Istnienie neutrin mionowych potwierdzili Melvin Schwartz, Leon Lederman i Jack Steinberger w eksperymencie na początku lat 60. XX w. Neutrino mionowe dawniej nazywano neutretto.
+W roku 2000 ogłoszono odkrycie neutrina taonowego jako wynik eksperymentu DONUT.
+Na podstawie eksperymentów prowadzonych przez CERN w akceleratorze LEP wyznaczających długość życia bozonu Z0 określono, że istnieją tylko 3 generacje neutrin.
+

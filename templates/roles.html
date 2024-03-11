@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %}AEI - role{% endblock %}</h1>
+    <div class="roles">
+        <div class="container-role">
+            Cel:
+            {% for cel in roles.cel %}
+                {{ cel }}
+            {% endfor %}
+        </div>
+        <div class="container-role">
+            Zdarzenie:
+            {% for zdarzenie in roles.zdarzenie %}
+                {{ zdarzenie }}
+            {% endfor %}
+        </div>
+        <div class="container-role">
+            Sprawca:
+            {% for sprawca in roles.sprawca %}
+                {{ sprawca }}
+            {% endfor %}
+        </div>
+        <div class="container-role">
+            Narzędzie:
+            {% for narzedzie in roles.narzedzie %}
+                {{ narzedzie }}
+            {% endfor %}
+        </div>
+        <div class="container-role">
+            Miejsce:
+            {% for miejsce in roles.miejsce %}
+                {{ miejsce }}
+            {% endfor %}
+        </div>
+        <div class="container-role">
+            Obiekt:
+            {% for obiekt in roles.obiekt %}
+                {{ obiekt }}
+            {% endfor %}
+        </div>
+    </div>
+    
+{% endblock %}

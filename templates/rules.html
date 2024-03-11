@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <h1>{% block title %}AEI - reguły{% endblock %}</h1>
+    <div class="container-rule">
+        {% for rule in rules %}
+        <p>
+            {{ rule[1] }}:
+            {% for s_rule in rule[0] %}
+                {{ s_rule }}
+            {% endfor %}
+        </p>    
+        {% endfor %}
+    </div>
+
+{% endblock %}

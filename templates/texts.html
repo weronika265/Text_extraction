@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %}AEI - teksty{% endblock %}</h1>
+    <div>
+        {% for i, text in texts %}
+            <div class="container-text-data">
+                <p class="label-text-num">Nr tekstu: {{ i + 1 }}</p>
+                {{ text|safe }}
+            </div>
+        {% endfor %}
+    </div>
+
+{% endblock %}

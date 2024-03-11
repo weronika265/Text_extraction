@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link href={{ url_for('static', filename='css/style.css') }} rel="stylesheet" type="text/css">
+</head>
+<body>
+    <nav class="topnav">
+        <a href={{ url_for('index') }}>Analiza tekstów</a>
+        <a href={{ url_for('show_texts') }}>Teksty</a>
+        <a href={{ url_for('show_roles') }}>Role</a>
+        <a href={{ url_for('show_rules') }}>Reguły</a>
+    </nav>
+    <div>
+        {% block content %}{% endblock %}
+    </div>
+</body>
+</html>

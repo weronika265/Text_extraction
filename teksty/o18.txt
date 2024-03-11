@@ -1,0 +1,7 @@
+Lorneta, lornetka – przyrząd optyczny w postaci dwóch lunet, sprzężonych równolegle. Umożliwia obuoczną obserwację odległych obiektów. Lorneta jest tak skonstruowana, aby dawała obraz prosty, czyli nie odwrócony. Zaletą lornety w porównaniu z lunetą (przy tej samej średnicy obiektywu) jest jaśniejszy obraz o większej rozdzielczości. Rozstawienie lunet wpływa także na wrażenie plastyczności obrazu dając efekt stereoskopowy.
+Lorneta jest nazwą przyrządu optycznego, w praktyce większość lornet jest niewielkich rozmiarów, stąd nazywane są lornetkami.
+Typowe lornetki oznaczane są dwiema liczbami oddzielonymi znakiem ×, na przykład: 7×50.
+Pierwsza wartość (po lewej stronie znaku ×) oznacza współczynnik powiększenia (w tym wypadku – powiększenie siedmiokrotne). Lornetki o zmiennym powiększeniu oznaczane są poprzez podanie dwóch liczb oddzielonych myślnikiem, np. oznaczenie 3–7 oznacza lornetkę, w której powiększenie jest regulowane w zakresie od trzech do siedmiu razy.
+Druga wartość (po prawej stronie znaku ×) oznacza średnicę obiektywu wyrażoną w milimetrach (w tym przypadku jest to 50 mm). Większa średnica obiektywu zapewnia większą jasność obrazu.
+Na obudowie lornetki możemy także znaleźć oznaczenia dotyczące pola widzenia instrumentu, które podawane są albo w stopniach albo w mierze liniowej czyli w metrach na 1000 metrów (ewentualnie w stopach na 1000 jardów). Innym parametrem lornetki jest liczba zmierzchowa, wskazująca na przydatność w słabych warunkach oświetlenia.
+

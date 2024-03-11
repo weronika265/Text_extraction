@@ -1,0 +1,5 @@
+Struny w gitarze możemy podzielić na 2 kategorie: basowe (E, A, D) oraz wiolinowe (G, B, E). Struny basowe są grubsze, a wiolinowe cieńsze.
+Zwróć uwagę, że mamy dwie struny E: wiolinową oraz basową. Aby uniknąć komplikacji możemy ponumerować struny. Licząc od basów do wiolinów otrzymujemy: E6, A5, D4, G3, B2, E1. Każda liczba reprezentuje konkretną strunę.
+W gitarze akustycznej struny E, A, D, G posiadają owijkę. W gitarze elektrycznej oraz klasycznej owijka występuje przeważnie tylko na strunach basowych E, A, D.
+Co oznacza, że gitara jest nastrojona?
+Jak widać na powyższym rysunku z nazwami strun, każda ze strun musi być nastrojona przez gitarzystę do dźwięku o odpowiedniej wysokości. Aby nastroić gitarę używamy stroików na główce (kluczy) w celu korekcji dźwięku dla każdej struny. Stroimy do wzorca, czyli standardowego stroju EADGBE. Zaawansowani muzycy stosują również alternatywne stroje (np. DADGAD), ale to temat na inną lekcję.
